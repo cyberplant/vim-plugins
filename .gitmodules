@@ -1,3 +1,6 @@
 [submodule "vim-airline"]
 	path = start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "colorizer"]
+	path = start/colorizer
+	url = https://github.com/lilydjwg/colorizer
